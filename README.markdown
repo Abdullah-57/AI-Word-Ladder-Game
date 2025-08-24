@@ -1,16 +1,10 @@
 # Word Ladder Adventure Game
 
-This repository contains the implementation of the **Word Ladder Adventure Game**, developed as part of **Applied Artificial Intelligence** Assignment 1 at FAST – National University of Computer & Emerging Sciences, Islamabad Campus. The game is an interactive puzzle where players transform a starting word into a target word by changing one letter at a time, with AI-powered hints using search algorithms (BFS, UCS, A*) to find the shortest path.
+This repository contains the implementation of the **Word Ladder Adventure Game**. The game is an interactive puzzle where players transform a starting word into a target word by changing one letter at a time, with AI-powered hints using search algorithms (BFS, UCS, A*) to find the shortest path.
 
 ## Project Overview
 
 The Word Ladder Adventure Game is a graph-based puzzle application that challenges players to convert a starting word to a target word through valid intermediate words. It incorporates AI search algorithms for hints, various difficulty modes, constraints like banned words and restricted letters, and a console-based UI for an engaging experience.
-
-**Course**: Applied Artificial Intelligence (Spring 2025)  
-**Instructor**: Dr. Atif Jilani  
-**Submitted by**: Abdullah Daoud (22I-2626), Zaid Masood (22I-8793)  
-**Section**: SE-E  
-**Institution**: FAST-NUCES, Islamabad Campus
 
 ## Game Mechanics
 
@@ -116,8 +110,3 @@ Contributions to enhance gameplay or algorithms are welcome:
 
 ## License
 MIT License - see `LICENSE` for details.
-
-## Contact
-- **Authors**: Abdullah Daoud (22I-2626), Zaid Masood (22I-8793)
-- **Instructor**: Dr. Atif Jilani
-- **Institution**: FAST-NUCES, Islamabad Campus
